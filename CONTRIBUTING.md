@@ -65,7 +65,7 @@ need you to:
 
 Reviewers, the people giving the review, are highly encouraged to revisit the
 [Code of
-Conduct](https://github.com/open-telemetry/community/blob/master/code-of-conduct.md)
+Conduct](https://github.com/LabSid-USP/.github/blob/main/CODE_OF_CONDUCT.md)
 and must go above and beyond to promote a collaborative, respectful community.
 
 When reviewing PRs from others [The Gentle Art of Patch
