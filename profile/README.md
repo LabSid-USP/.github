@@ -1,16 +1,16 @@
+<p align="center">
+  <a href="https://labsid.poli.usp.br/">
+    <img src="https://labsid.poli.usp.br/wp-content/uploads/sites/1206/2019/06/LogoLabSid.svg" alt="Laboratory for Decision Support Systems in Environmental and Water Resources Engineering (LabSid) logo" height="120">
+  </a>
+</p>
+
 <h1 align="center">
     Smart solutions for water management
 </h1>
 
 <p align="center">
-  <a href="https://labsid.poli.usp.br/">
-    <img src="https://labsid.poli.usp.br/wp-content/uploads/sites/1206/2019/06/LogoLabSid.svg" alt="LabSid logo" height="120">
-  </a>
-</p>
-
-<p align="center">
-The Laboratory for Decision Support Systems in Environmental and Water Resources Engineering, LabSid, was established in 1998 and is part of
-  the Department of Hydraulic and Environmental Engineering of the Polytechnic School of the University of São Paulo.
+The <b>Laboratory for Decision Support Systems in Environmental and Water Resources Engineering, LabSid</b>, was established in 1998 and is part of
+  the <a href="https://www.poli.usp.br/departamentos/pha"/>Department of Hydraulic and Environmental Engineering</a> of the <a href="https://www.poli.usp.br"/>Polytechnic School</a> of the <a href="https://www.usp.br">University of São Paulo</a>, Brazil.
   It operates in the fields of research, teaching, dissemination, and provision of specialized services.
   The main focus is on decision-making problems related to the utilization of water resources and environmental issues.
 </p>
